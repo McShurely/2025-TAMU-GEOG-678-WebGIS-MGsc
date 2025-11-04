@@ -1,0 +1,59 @@
+Type,Number,Title,Topic,Description,File Path,Status,Due Date,Priority,Tags
+Lab,01,TAMU WEBGIS: Lab 1,GitHub Setup,1. Create TAMU GitHub account; 2. Create a repo for this class; 3. Create folders + readme's for each weeks labs /labs/XX,labs/01.md,Not Started,,Medium,Lab
+Lab,02,TAMU WEBGIS: Lab 2,ArcGIS Online,"1. Finish the ArcGIS Online web map tutorial; 2. Complete the exercise ""Create and share a map for data collection""",labs/02.md,Not Started,,Medium,Lab
+Lab,03,TAMU WEBGIS: Lab 3,Web Programming,,labs/03.md,Not Started,,Medium,Lab
+Lab,04,TAMU WEBGIS: Lab 4,Javascript and JSON programming,,labs/04.md,Not Started,,Medium,Lab
+Lab,05,TAMU WEBGIS: Lab 5,Basic Javascript Mapping with Leaflet JS,1. Complete the first three online Leaflet tutorials - create working HTML pages in your repo for each of the tutorials; 2. Build a custom web map that integrates each of the tutorials,labs/05.md,Not Started,,Medium,Lab
+Lab,06,TAMU WEBGIS: Lab 6,Advanced Javascript Mapping with Leaflet JS,,labs/06.md,Not Started,,Medium,Lab
+Lab,06,TAMU WEBGIS: Lab 06 - Supplemental,Javscript Data Merging -,,labs/06b.md,Not Started,,Medium,Lab
+Lab,08,TAMU WEBGIS: Lab 8,Tell the story of TAMU Campus using ArcGIS StoryMaps with 3D Layers,,labs/08.md,Not Started,,Medium,Lab
+Lab,09,TAMU WEBGIS: Lab 9,Interactive Charts (Operations Dashboard for ArcGIS + D3 + HighCharts),,labs/09.md,Not Started,,Medium,Lab
+Lab,10,TAMU WEBGIS: Lab 10,Feature Layer Web Editing -,,labs/10.md,Not Started,,Medium,Lab
+Lab,11,TAMU WEBGIS: Lab 11,COVID-19 Data Collection,,labs/11.md,Not Started,,Medium,Lab
+Lab,_02,TAMU WEBGIS: Lab 2,ArcGIS Online & ArcGIS Experience Builder,"1. Finish the ArcGIS Online web map tutorial; 2. Complete the exercise ""Create and share a map""; 3. Build a web experience using **ArcGIS Experience Builder**",labs/_02.md,Not Started,,Medium,Lab
+Lab,_05,TAMU WEBGIS: Lab 5,Basic Javascript Mapping with Leaflet JS,1. Finish the first three online Leaflet tutorials - create working HTML pages in your repo for each of the tutorials; 2. Build a custom web map that integrates each of the tutorials,labs/_05.md,Not Started,,Medium,Lab
+Lab,_06,TAMU WEBGIS: Lab 6,Advanced Javascript Mapping with Leaflet JS,,labs/_06.md,Not Started,,Medium,Lab
+Lab,_08,TAMU WEBGIS: Lab 8,Tell the story of your data using ArcGIS Story map,,labs/_08.md,Not Started,,Medium,Lab
+Module,01,TAMU WEBGIS,,Create Github account; Explain basic Git commands; Set up development environment,modules/01.md,Not Started,,Medium,Module
+Module,02,TAMU WEBGIS,,,modules/02.md,Not Started,,Medium,Module
+Module,03,TAMU WEBGIS,,,modules/03.md,Not Started,,Medium,Module
+Module,04,TAMU WEBGIS,,,modules/04.md,Not Started,,Medium,Module
+Module,05,TAMU WEBGIS,,,modules/05.md,Not Started,,Medium,Module
+Module,06,TAMU WEBGIS,,Describe the purpose of online mapping; Enumerate the types of online maps; Enumerate the types of online map layers,modules/06.md,Not Started,,Medium,Module
+Module,07,TAMU WEBGIS,,,modules/07.md,Not Started,,Medium,Module
+Module,08,TAMU WEBGIS,,Describe what Web AppBuilder for ArcGIS is; Discover the various features Web AppBuilder for ArcGIS has; Detail how to install Web AppBuidler for ArcGIS,modules/08.md,Not Started,,Medium,Module
+Module,08,TAMU WEBGIS,,Describe types of WebGIS data; Describe sources of WebGIS data,modules/08a.md,Not Started,,Medium,Module
+Module,09,TAMU WEBGIS,,Describe what is HTML; Detail the finer points of HTML; Describe what is CSS,modules/09.md,Not Started,,Medium,Module
+Module,10,TAMU WEBGIS,,Be able to define and recognize CSS; Describe CSS syntax; Import an external CSS file,modules/10.md,Not Started,,Medium,Module
+Module,11,TAMU WEBGIS,,Describe CSS Inheritance; Describe CSS syntax; Import an external CSS file,modules/11.md,Not Started,,Medium,Module
+Module,12,TAMU WEBGIS,,Describe why site acessibility matters; Describe the types of methods employed to make sites ADA compliant; Describe what site usability means,modules/12.md,Not Started,,Medium,Module
+Module,13,TAMU WEBGIS,,Recognize Javascript; Import Javascript into your website; Identify and create JS variables,modules/13.md,Not Started,,Medium,Module
+Module,14,TAMU WEBGIS,,Continue learning Javascript; Identify Javascript operators; Write Javascript functions,modules/14.md,Not Started,,Medium,Module
+Module,15,TAMU WEBGIS,,Detail the different Javascript conditionals; Explain objects; Create and manipulate JS objects,modules/15.md,Not Started,,Medium,Module
+Module,16,TAMU WEBGIS,,Utilize LeafletJS; Create a simple web map; Add data to web map,modules/16.md,Not Started,,Medium,Module
+Module,17,TAMU WEBGIS,,Create JSON objects; Manipulate JSON objects with Javascript; Create GeoJSON objects,modules/17.md,Not Started,,Medium,Module
+Module,18,TAMU WEBGIS,,Describe the purpose of REST interfaces; Enumerate the types of REST verbs (GET/POST/DELETE); Pull GIS data from REST interfaces,modules/18.md,Not Started,,Medium,Module
+Module,19,TAMU WEBGIS,,Explain the Dojo loading process; Add basemaps; Incorporate feature layers,modules/19.md,Not Started,,Medium,Module
+Module,20,TAMU WEBGIS,,Interacting with geoprocessing services; Utilizing widgets; Creating widgets,modules/20.md,Not Started,,Medium,Module
+Module,21,TAMU WEBGIS,,Create 3D web mapping applications,modules/21.md,Not Started,,Medium,Module
+Module,22,TAMU WEBGIS,,Explain the components of D3.js; Implement simple D3.js visualization,modules/22.md,Not Started,,Medium,Module
+Module,23,TAMU WEBGIS,,Explain the components of HighCharts.js; Implement simple HighCharts.js visualization,modules/23.md,Not Started,,Medium,Module
+Module,24,TAMU WEBGIS,,Learn what Operations Dashboard for ArcGIS,modules/24.md,Not Started,,Medium,Module
+Module,25,TAMU WEBGIS,,Create Story Maps; Add Interactive Visualizations to Story Maps,modules/25.md,Not Started,,Medium,Module
+Module,26,TAMU WEBGIS,,Learn about web servers,modules/26.md,Not Started,,Medium,Module
+Module,27,TAMU WEBGIS,,Describe IIS installation process; Learn how to setup a site in IIS,modules/27.md,Not Started,,Medium,Module
+Module,28,TAMU WEBGIS,,Describe the components of the new ArcGIS Enterprise Platform; [Describe the differences between deployment patterns for ArcGIS Enterprise](https://enterprise.arcgis.com/en/get-started/latest/windows/additional-server-deployment.htm); [Describe the security considerations of ArcGIS Enterprise](https://enterprise.arcgis.com/en/get-started/latest/windows/the-arcgis-enterprise-security-model.htm),modules/28.md,Not Started,,Medium,Module
+Module,29,TAMU WEBGIS,,Describe the steps of the ArcGIS Enterprise Platform installation process; Describe the difference between RDBMS and NoSQL Databases; Describe the Data Store configuration process,modules/29.md,Not Started,,Medium,Module
+Module,30,TAMU WEBGIS,,[Describe the components of ArcGIS Portal](https://enterprise.arcgis.com/en/portal/latest/install/windows/what-is-portal-for-arcgis-.htm); [Describe the benefits that ArcGIS Portal provides](https://enterprise.arcgis.com/en/portal/10.4/use/what-is-portal-for-arcgis-.htm); [Describe the role of ArcGIS Portal in the ArcGIS platform](https://enterprise.arcgis.com/en/portal/latest/install/windows/the-portal-s-role-in-arcgis.htm),modules/30.md,Not Started,,Medium,Module
+Module,31,TAMU WEBGIS,,[ArcGIS Portal Data Administration](https://enterprise.arcgis.com/en/portal/latest/install/windows/configuring-a-highly-available-portal.htm); [ArcGIS Portal Service/Servers Administration](https://enterprise.arcgis.com/en/portal/latest/install/windows/configuring-a-highly-available-portal.htm); Federating data sources and servers -->,modules/31.md,Not Started,,Medium,Module
+Module,32,TAMU WEBGIS,,Publishing data and services to ArcGIS Portal; Sharing data and services with ArcGIS Portal; Using data and services from ArcGIS Portal,modules/32.md,Not Started,,Medium,Module
+Module,33,TAMU WEBGIS,,"Explain why vector tiles are the bees knees; Describe the difference between dynamic, cached, and vector tiles; Detail how to create and publish vector tiles",modules/33.md,Not Started,,Medium,Module
+Module,34,TAMU WEBGIS,,Describe the consequences of disk thrashing from poor server configuration (disk spinning too much and not being able to serve tiles); Describe how to work with vector tiles through javascript -->; Describe the differences between tiling schemes,modules/34.md,Not Started,,Medium,Module
+Module,35,TAMU WEBGIS,,[Complete the configuration process for ArcGIS Insights](https://enterprise.arcgis.com/en/portal/latest/administer/linux/configure-insights-licensing.htm); Complete the creation of a WebGIS with insights -->; Describe ArcGIS Insights role,modules/35.md,Not Started,,Medium,Module
+Project,,finalchecklist: GEOG WebGIS: Project Final Checklist,finalchecklist,finalchecklist,project/finalchecklist/readme.md,Not Started,,High,Project
+Project,,finalreport: GEOG WebGIS: Project Final Report,finalreport,finalreport,project/finalreport/readme.md,Not Started,,High,Project
+Project,,pitch: GEOG WebGIS: Project Pitch,pitch,pitch,project/pitch/readme.md,Not Started,,High,Project
+Project,,priorprojects: GEOG WebGIS: Prior Projects,priorprojects,priorprojects,project/priorprojects/readme.md,Not Started,,High,Project
+Project,,proposal: Project Proposal Guidelines,proposal,proposal,project/proposal/readme.md,Not Started,,High,Project
+Project,,statusreport: GEOG WebGIS: Project Status Report I,statusreport,statusreport,project/statusreport/01.md,Not Started,,High,Project
+Project,,teamevaluation: GEOG WEBGIS: Poject Team Evaluation,teamevaluation,teamevaluation,project/teamevaluation/readme.md,Not Started,,High,Project

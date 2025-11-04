@@ -1,0 +1,640 @@
+{
+  "course": "GEOG 678 - WebGIS",
+  "extracted_date": "2025-11-04T18:33:25.349418",
+  "labs": [
+    {
+      "type": "Lab",
+      "number": "01",
+      "title": "TAMU WEBGIS: Lab 1",
+      "topic": "GitHub Setup",
+      "tasks": [
+        "1. Create TAMU GitHub account",
+        "2. Create a repo for this class",
+        "3. Create folders + readme's for each weeks labs /labs/XX",
+        "4. Create a TAMU Slack account and submit your Slack username",
+        "5. **Optional** Clone the repo for this course on your laptop, PC or VM Desktop"
+      ],
+      "file_path": "labs/01.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "02",
+      "title": "TAMU WEBGIS: Lab 2",
+      "topic": "ArcGIS Online",
+      "tasks": [
+        "1. Finish the ArcGIS Online web map tutorial",
+        "2. Complete the exercise \"Create and share a map for data collection\""
+      ],
+      "file_path": "labs/02.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "03",
+      "title": "TAMU WEBGIS: Lab 3",
+      "topic": "Web Programming",
+      "tasks": [],
+      "file_path": "labs/03.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "04",
+      "title": "TAMU WEBGIS: Lab 4",
+      "topic": "Javascript and JSON programming",
+      "tasks": [],
+      "file_path": "labs/04.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "05",
+      "title": "TAMU WEBGIS: Lab 5",
+      "topic": "Basic Javascript Mapping with Leaflet JS",
+      "tasks": [
+        "1. Complete the first three online Leaflet tutorials - create working HTML pages in your repo for each of the tutorials",
+        "2. Build a custom web map that integrates each of the tutorials"
+      ],
+      "file_path": "labs/05.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "06",
+      "title": "TAMU WEBGIS: Lab 6",
+      "topic": "Advanced Javascript Mapping with Leaflet JS",
+      "tasks": [],
+      "file_path": "labs/06.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "06",
+      "title": "TAMU WEBGIS: Lab 06 - Supplemental",
+      "topic": "Javscript Data Merging -",
+      "tasks": [],
+      "file_path": "labs/06b.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "08",
+      "title": "TAMU WEBGIS: Lab 8",
+      "topic": "Tell the story of TAMU Campus using ArcGIS StoryMaps with 3D Layers",
+      "tasks": [],
+      "file_path": "labs/08.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "09",
+      "title": "TAMU WEBGIS: Lab 9",
+      "topic": "Interactive Charts (Operations Dashboard for ArcGIS + D3 + HighCharts)",
+      "tasks": [],
+      "file_path": "labs/09.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "10",
+      "title": "TAMU WEBGIS: Lab 10",
+      "topic": "Feature Layer Web Editing -",
+      "tasks": [],
+      "file_path": "labs/10.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "11",
+      "title": "TAMU WEBGIS: Lab 11",
+      "topic": "COVID-19 Data Collection",
+      "tasks": [],
+      "file_path": "labs/11.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "_02",
+      "title": "TAMU WEBGIS: Lab 2",
+      "topic": "ArcGIS Online & ArcGIS Experience Builder",
+      "tasks": [
+        "1. Finish the ArcGIS Online web map tutorial",
+        "2. Complete the exercise \"Create and share a map\"",
+        "3. Build a web experience using **ArcGIS Experience Builder**"
+      ],
+      "file_path": "labs/_02.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "_05",
+      "title": "TAMU WEBGIS: Lab 5",
+      "topic": "Basic Javascript Mapping with Leaflet JS",
+      "tasks": [
+        "1. Finish the first three online Leaflet tutorials - create working HTML pages in your repo for each of the tutorials",
+        "2. Build a custom web map that integrates each of the tutorials"
+      ],
+      "file_path": "labs/_05.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "_06",
+      "title": "TAMU WEBGIS: Lab 6",
+      "topic": "Advanced Javascript Mapping with Leaflet JS",
+      "tasks": [],
+      "file_path": "labs/_06.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Lab",
+      "number": "_08",
+      "title": "TAMU WEBGIS: Lab 8",
+      "topic": "Tell the story of your data using ArcGIS Story map",
+      "tasks": [],
+      "file_path": "labs/_08.md",
+      "status": "Not Started"
+    }
+  ],
+  "modules": [
+    {
+      "type": "Module",
+      "number": "01",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Create Github account",
+        "Explain basic Git commands",
+        "Set up development environment"
+      ],
+      "file_path": "modules/01.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "02",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [],
+      "file_path": "modules/02.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "03",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [],
+      "file_path": "modules/03.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "04",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [],
+      "file_path": "modules/04.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "05",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [],
+      "file_path": "modules/05.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "06",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe the purpose of online mapping",
+        "Enumerate the types of online maps",
+        "Enumerate the types of online map layers",
+        "Describe the purpose, types, limitations, and constraints o finteractive elements"
+      ],
+      "file_path": "modules/06.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "07",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [],
+      "file_path": "modules/07.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "08",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe what Web AppBuilder for ArcGIS is",
+        "Discover the various features Web AppBuilder for ArcGIS has",
+        "Detail how to install Web AppBuidler for ArcGIS",
+        "Describe the purpose, types, limitations, and constraints of interactive elements"
+      ],
+      "file_path": "modules/08.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "08",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe types of WebGIS data",
+        "Describe sources of WebGIS data"
+      ],
+      "file_path": "modules/08a.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "09",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe what is HTML",
+        "Detail the finer points of HTML",
+        "Describe what is CSS",
+        "Learn how to use and / or import Javascript in a site"
+      ],
+      "file_path": "modules/09.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "10",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Be able to define and recognize CSS",
+        "Describe CSS syntax",
+        "Import an external CSS file",
+        "Obtain basic knowledge of important CSS properties"
+      ],
+      "file_path": "modules/10.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "11",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe CSS Inheritance",
+        "Describe CSS syntax",
+        "Import an external CSS file",
+        "Obtain basic knowledge of important CSS properties"
+      ],
+      "file_path": "modules/11.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "12",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe why site acessibility matters",
+        "Describe the types of methods employed to make sites ADA compliant",
+        "Describe what site usability means",
+        "Obtain basic usability techniques"
+      ],
+      "file_path": "modules/12.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "13",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Recognize Javascript",
+        "Import Javascript into your website",
+        "Identify and create JS variables",
+        "Identify JS operators"
+      ],
+      "file_path": "modules/13.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "14",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Continue learning Javascript",
+        "Identify Javascript operators",
+        "Write Javascript functions",
+        "Create loops"
+      ],
+      "file_path": "modules/14.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "15",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Detail the different Javascript conditionals",
+        "Explain objects",
+        "Create and manipulate JS objects",
+        "Listen for and do useful stuff on events"
+      ],
+      "file_path": "modules/15.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "16",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Utilize LeafletJS",
+        "Create a simple web map",
+        "Add data to web map"
+      ],
+      "file_path": "modules/16.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "17",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Create JSON objects",
+        "Manipulate JSON objects with Javascript",
+        "Create GeoJSON objects"
+      ],
+      "file_path": "modules/17.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "18",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe the purpose of REST interfaces",
+        "Enumerate the types of REST verbs (GET/POST/DELETE)",
+        "Pull GIS data from REST interfaces",
+        "Display GIS data on web maps from REST interfaces"
+      ],
+      "file_path": "modules/18.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "19",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Explain the Dojo loading process",
+        "Add basemaps",
+        "Incorporate feature layers",
+        "Layer control - Turning layers on/off",
+        "Creating popup templates"
+      ],
+      "file_path": "modules/19.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "20",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Interacting with geoprocessing services",
+        "Utilizing widgets",
+        "Creating widgets"
+      ],
+      "file_path": "modules/20.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "21",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Create 3D web mapping applications"
+      ],
+      "file_path": "modules/21.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "22",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Explain the components of D3.js",
+        "Implement simple D3.js visualization"
+      ],
+      "file_path": "modules/22.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "23",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Explain the components of HighCharts.js",
+        "Implement simple HighCharts.js visualization"
+      ],
+      "file_path": "modules/23.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "24",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Learn what Operations Dashboard for ArcGIS"
+      ],
+      "file_path": "modules/24.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "25",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Create Story Maps",
+        "Add Interactive Visualizations to Story Maps"
+      ],
+      "file_path": "modules/25.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "26",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Learn about web servers"
+      ],
+      "file_path": "modules/26.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "27",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe IIS installation process",
+        "Learn how to setup a site in IIS"
+      ],
+      "file_path": "modules/27.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "28",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe the components of the new ArcGIS Enterprise Platform",
+        "[Describe the differences between deployment patterns for ArcGIS Enterprise](https://enterprise.arcgis.com/en/get-started/latest/windows/additional-server-deployment.htm)",
+        "[Describe the security considerations of ArcGIS Enterprise](https://enterprise.arcgis.com/en/get-started/latest/windows/the-arcgis-enterprise-security-model.htm)",
+        "Describe the connection between desktop, server, and mobile ArcGIS Enterprise ecosystem"
+      ],
+      "file_path": "modules/28.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "29",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe the steps of the ArcGIS Enterprise Platform installation process",
+        "Describe the difference between RDBMS and NoSQL Databases",
+        "Describe the Data Store configuration process"
+      ],
+      "file_path": "modules/29.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "30",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "[Describe the components of ArcGIS Portal](https://enterprise.arcgis.com/en/portal/latest/install/windows/what-is-portal-for-arcgis-.htm)",
+        "[Describe the benefits that ArcGIS Portal provides](https://enterprise.arcgis.com/en/portal/10.4/use/what-is-portal-for-arcgis-.htm)",
+        "[Describe the role of ArcGIS Portal in the ArcGIS platform](https://enterprise.arcgis.com/en/portal/latest/install/windows/the-portal-s-role-in-arcgis.htm)",
+        "[Describe the apps that ArcGIS Portal supports](https://enterprise.arcgis.com/en/portal/latest/administer/linux/manage-app-launcher.htm)",
+        "Describe the role of ArcGIS Portal in an organization"
+      ],
+      "file_path": "modules/30.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "31",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "[ArcGIS Portal Data Administration](https://enterprise.arcgis.com/en/portal/latest/install/windows/configuring-a-highly-available-portal.htm)",
+        "[ArcGIS Portal Service/Servers Administration](https://enterprise.arcgis.com/en/portal/latest/install/windows/configuring-a-highly-available-portal.htm)",
+        "Federating data sources and servers -->",
+        "Learn about ArcGIS Portal User / Data Administration",
+        "Discuss data and server federation",
+        "Discuss highly available portals"
+      ],
+      "file_path": "modules/31.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "32",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Publishing data and services to ArcGIS Portal",
+        "Sharing data and services with ArcGIS Portal",
+        "Using data and services from ArcGIS Portal",
+        "Collaboration between portals"
+      ],
+      "file_path": "modules/32.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "33",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Explain why vector tiles are the bees knees",
+        "Describe the difference between dynamic, cached, and vector tiles",
+        "Detail how to create and publish vector tiles"
+      ],
+      "file_path": "modules/33.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "34",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "Describe the consequences of disk thrashing from poor server configuration (disk spinning too much and not being able to serve tiles)",
+        "Describe how to work with vector tiles through javascript -->",
+        "Describe the differences between tiling schemes"
+      ],
+      "file_path": "modules/34.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Module",
+      "number": "35",
+      "title": "TAMU WEBGIS",
+      "learning_objectives": [
+        "[Complete the configuration process for ArcGIS Insights](https://enterprise.arcgis.com/en/portal/latest/administer/linux/configure-insights-licensing.htm)",
+        "Complete the creation of a WebGIS with insights -->",
+        "Describe ArcGIS Insights role",
+        "Detail the configuration process for ArcGIS Insights",
+        "Complete the creation of a WebGIS with Insights"
+      ],
+      "file_path": "modules/35.md",
+      "status": "Not Started"
+    }
+  ],
+  "projects": [
+    {
+      "type": "Project",
+      "component": "finalchecklist",
+      "title": "GEOG WebGIS: Project Final Checklist",
+      "file_path": "project/finalchecklist/readme.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Project",
+      "component": "finalreport",
+      "title": "GEOG WebGIS: Project Final Report",
+      "file_path": "project/finalreport/readme.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Project",
+      "component": "pitch",
+      "title": "GEOG WebGIS: Project Pitch",
+      "file_path": "project/pitch/readme.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Project",
+      "component": "priorprojects",
+      "title": "GEOG WebGIS: Prior Projects",
+      "file_path": "project/priorprojects/readme.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Project",
+      "component": "proposal",
+      "title": "Project Proposal Guidelines",
+      "file_path": "project/proposal/readme.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Project",
+      "component": "statusreport",
+      "title": "GEOG WebGIS: Project Status Report I",
+      "file_path": "project/statusreport/01.md",
+      "status": "Not Started"
+    },
+    {
+      "type": "Project",
+      "component": "teamevaluation",
+      "title": "GEOG WEBGIS: Poject Team Evaluation",
+      "file_path": "project/teamevaluation/readme.md",
+      "status": "Not Started"
+    }
+  ],
+  "summary": {
+    "total_labs": 15,
+    "total_modules": 36,
+    "total_projects": 7
+  }
+}
