@@ -14,3 +14,7 @@ For questions or further information, please contact the course instructor [Inse
 >
 > **Residential Program**: [Click here for Residential Program Version - 14.5 weeks](https://github.tamu.edu/TAMU-GEOG-678-WebGIS/Residential/)
 
+## Labs
+
+- [Lab 02](lab/02/) - Lab 02 materials and exercises
+
