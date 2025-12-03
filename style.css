@@ -1,0 +1,34 @@
+/* Task 1: Make the header image smaller */
+img {
+  height: 150px;
+}
+
+/* Task 2: Larger font size for recipe description */
+.description {
+  font-size: 20px;
+}
+
+/* Task 3: Bold cooking time */
+#cook-time {
+  font-weight: bold;
+}
+
+/* Task 4: Square bullet points for ingredients */
+.ingredients li {
+  list-style: square;
+}
+
+/* Task 5: Gray color for preparation step times */
+p.time {
+  color: gray;
+}
+
+/* Task 6: SeaGreen color for external link */
+.external-link {
+  color: SeaGreen;
+}
+
+/* Task 7: Helvetica font for all text elements */
+h1, h2, p, li {
+  font-family: Helvetica;
+}
