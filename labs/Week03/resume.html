@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Resume - GIS Specialist</title>
+    <style>
+        /* Reset and base styles */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333333;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        /* Main container */
+        .resume-container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #ffffff;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+        }
+
+        /* Header section */
+        .header {
+            background: linear-gradient(135deg, #500000, #8B0000);
+            color: #ffffff;
+            padding: 40px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            letter-spacing: 2px;
+        }
+
+        .header h2 {
+            font-size: 1.3em;
+            font-weight: 300;
+            color: #ffd700;
+            margin-bottom: 20px;
+        }
+
+        .contact-info {
+            display: flex;
+            justify-content: center;
+            flex-wrap: wrap;
+            gap: 20px;
+        }
+
+        .contact-info a {
+            color: #ffffff;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .contact-info a:hover {
+            color: #ffd700;
+        }
+
+        /* Main content */
+        .content {
+            padding: 40px;
+        }
+
+        /* Section styling */
+        .section {
+            margin-bottom: 35px;
+        }
+
+        .section h3 {
+            color: #500000;
+            font-size: 1.4em;
+            border-bottom: 3px solid #500000;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        /* Experience and Education items */
+        .item {
+            margin-bottom: 25px;
+            padding-left: 20px;
+            border-left: 3px solid #8B0000;
+        }
+
+        .item h4 {
+            color: #2c3e50;
+            font-size: 1.1em;
+            margin-bottom: 5px;
+        }
+
+        .item .subtitle {
+            color: #500000;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .item .date {
+            color: #7f8c8d;
+            font-style: italic;
+            font-size: 0.9em;
+            margin-bottom: 10px;
+        }
+
+        .item p {
+            color: #555555;
+        }
+
+        /* Skills section */
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+        }
+
+        .skill-category h4 {
+            color: #500000;
+            margin-bottom: 10px;
+        }
+
+        .skill-category ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+
+        .skill-category li {
+            padding: 5px 0;
+            color: #555555;
+            position: relative;
+            padding-left: 20px;
+        }
+
+        .skill-category li::before {
+            content: "\2022";
+            color: #8B0000;
+            font-weight: bold;
+            position: absolute;
+            left: 0;
+        }
+
+        /* Links styling */
+        a {
+            color: #500000;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: #8B0000;
+            text-decoration: underline;
+        }
+
+        /* Objective paragraph */
+        .objective {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 5px;
+            border-left: 4px solid #500000;
+        }
+
+        .objective p {
+            color: #444444;
+            font-size: 1.05em;
+        }
+
+        /* Footer */
+        .footer {
+            background-color: #333333;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+
+        .footer a {
+            color: #ffd700;
+        }
+
+        /* Responsive design */
+        @media (max-width: 600px) {
+            .header h1 {
+                font-size: 1.8em;
+            }
+            .content {
+                padding: 20px;
+            }
+            .contact-info {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="resume-container">
+        <!-- Header Section -->
+        <header class="header">
+            <h1>Michael Shurley</h1>
+            <h2>GIS Specialist | WebGIS Developer</h2>
+            <div class="contact-info">
+                <span>College Station, TX</span>
+                <a href="mailto:mshurley@tamu.edu">mshurley@tamu.edu</a>
+                <a href="https://github.com/McShurely" target="_blank">GitHub: McShurely</a>
+                <a href="https://www.linkedin.com/in/" target="_blank">LinkedIn</a>
+            </div>
+        </header>
+
+        <!-- Main Content -->
+        <main class="content">
+            <!-- Professional Summary -->
+            <section class="section">
+                <h3>Professional Summary</h3>
+                <div class="objective">
+                    <p>
+                        Dedicated GIS professional with expertise in geographic information systems,
+                        spatial analysis, and web mapping technologies. Currently pursuing advanced
+                        studies in WebGIS at Texas A&M University, combining strong technical skills
+                        with a passion for creating innovative geospatial solutions. Proficient in
+                        developing interactive web mapping applications using modern JavaScript
+                        frameworks and industry-standard GIS software.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Education Section -->
+            <section class="section">
+                <h3>Education</h3>
+                <div class="item">
+                    <h4>Texas A&M University</h4>
+                    <p class="subtitle">Master of Science in Geography</p>
+                    <p class="date">Expected Graduation: 2025</p>
+                    <p>Concentration: Geographic Information Science and Technology (GIST)</p>
+                    <ul>
+                        <li>Relevant Coursework: WebGIS, Spatial Analysis, Remote Sensing, Database Management</li>
+                        <li>GPA: 3.8/4.0</li>
+                    </ul>
+                </div>
+                <div class="item">
+                    <h4>Texas A&M University</h4>
+                    <p class="subtitle">Bachelor of Science in Geography</p>
+                    <p class="date">Graduated: 2023</p>
+                    <p>Minor: Computer Science</p>
+                </div>
+            </section>
+
+            <!-- Experience Section -->
+            <section class="section">
+                <h3>Professional Experience</h3>
+                <div class="item">
+                    <h4>GIS Research Assistant</h4>
+                    <p class="subtitle">Texas A&M University - Department of Geography</p>
+                    <p class="date">August 2023 - Present</p>
+                    <p>
+                        Assist faculty with geospatial research projects involving environmental
+                        monitoring and urban planning. Develop web mapping applications using
+                        Leaflet and ArcGIS API for JavaScript. Maintain spatial databases and
+                        perform complex spatial analyses.
+                    </p>
+                </div>
+                <div class="item">
+                    <h4>GIS Intern</h4>
+                    <p class="subtitle">City of College Station - Planning Department</p>
+                    <p class="date">May 2022 - August 2022</p>
+                    <p>
+                        Created and maintained GIS datasets for municipal planning purposes.
+                        Developed interactive web maps for public engagement initiatives.
+                        Assisted with zoning analysis and permit review processes.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Skills Section -->
+            <section class="section">
+                <h3>Technical Skills</h3>
+                <div class="skills-grid">
+                    <div class="skill-category">
+                        <h4>GIS Software</h4>
+                        <ul>
+                            <li>ArcGIS Pro</li>
+                            <li>ArcGIS Online</li>
+                            <li>QGIS</li>
+                            <li>Google Earth Engine</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Programming Languages</h4>
+                        <ul>
+                            <li>JavaScript</li>
+                            <li>Python</li>
+                            <li>HTML/CSS</li>
+                            <li>SQL</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Web Mapping</h4>
+                        <ul>
+                            <li>Leaflet</li>
+                            <li>ArcGIS API for JS</li>
+                            <li>Mapbox GL JS</li>
+                            <li>OpenLayers</li>
+                        </ul>
+                    </div>
+                    <div class="skill-category">
+                        <h4>Data Management</h4>
+                        <ul>
+                            <li>PostgreSQL/PostGIS</li>
+                            <li>Geodatabases</li>
+                            <li>GeoJSON</li>
+                            <li>Shapefiles</li>
+                        </ul>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Projects Section -->
+            <section class="section">
+                <h3>Notable Projects</h3>
+                <div class="item">
+                    <h4>Interactive Campus Map</h4>
+                    <p>
+                        Developed an interactive web map for Texas A&M campus navigation using
+                        Leaflet.js. Features include building information popups, search
+                        functionality, and accessibility routing.
+                        <a href="https://github.com/McShurely/campus-map" target="_blank">View on GitHub</a>
+                    </p>
+                </div>
+                <div class="item">
+                    <h4>Environmental Monitoring Dashboard</h4>
+                    <p>
+                        Created a real-time dashboard displaying environmental sensor data
+                        with spatial visualization using the ArcGIS API for JavaScript
+                        and Chart.js for data visualization.
+                    </p>
+                </div>
+            </section>
+
+            <!-- Certifications -->
+            <section class="section">
+                <h3>Certifications</h3>
+                <ul style="padding-left: 20px;">
+                    <li>Esri Technical Certification: ArcGIS Desktop Entry</li>
+                    <li>Esri Web Application Developer</li>
+                    <li>Python for Data Science - Codecademy</li>
+                </ul>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>
+                References available upon request |
+                <a href="mailto:mshurley@tamu.edu">Contact Me</a> |
+                Last Updated: December 2024
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
