@@ -1,0 +1,27 @@
+/* Task 7 & 8: Body styling - font-family and background-image */
+body {
+  font-family: Georgia;
+  background-image: url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+}
+
+/* Task 1 & 2: Header styling - background color and text alignment */
+.header {
+  background-color: cornflowerblue;
+  text-align: center;
+}
+
+/* Task 3 & 4: About-me paragraph styling - font size and opacity */
+.about-me {
+  font-size: 20px;
+  opacity: 0.5;
+}
+
+/* Task 5: Title styling - bold text */
+.title {
+  font-weight: bold;
+}
+
+/* Task 6: H1 styling - azure color */
+h1 {
+  color: azure;
+}
