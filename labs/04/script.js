@@ -1,5 +1,7 @@
 // Task 3: Create the Run function
 function Run() {
+    alert("Run function called!");
+
     // Get the data array from theJSON object loaded via script tag
     var data = theJSON.data;
 
